@@ -1,2 +1,2 @@
 # SoftUniEntityFrameworkCoreExams
-Solved Exams
+Solved Exams in the Judge system of SoftUni.
